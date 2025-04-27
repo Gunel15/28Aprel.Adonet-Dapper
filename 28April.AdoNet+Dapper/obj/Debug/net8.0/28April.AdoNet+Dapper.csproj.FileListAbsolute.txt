@@ -63,3 +63,4 @@ C:\Users\V&V\source\repos\28April.AdoNet+Dapper\28April.AdoNet+Dapper\obj\Debug\
 C:\Users\V&V\source\repos\28April.AdoNet+Dapper\28April.AdoNet+Dapper\obj\Debug\net8.0\28April.AdoNet+Dapper.pdb
 C:\Users\V&V\source\repos\28April.AdoNet+Dapper\28April.AdoNet+Dapper\obj\Debug\net8.0\28April.AdoNet+Dapper.genruntimeconfig.cache
 C:\Users\V&V\source\repos\28April.AdoNet+Dapper\28April.AdoNet+Dapper\obj\Debug\net8.0\ref\28April.AdoNet+Dapper.dll
+C:\Users\V&V\source\repos\28April.AdoNet+Dapper\28April.AdoNet+Dapper\obj\Debug\net8.0\28April.AdoNet+Dapper.sourcelink.json
