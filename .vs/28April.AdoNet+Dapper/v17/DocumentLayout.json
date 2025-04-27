@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{417C477C-477D-4F9B-BF48-D3564759E788}|28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper.csproj|solutionrelative:28april.adonet\u002Bdapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{417C477C-477D-4F9B-BF48-D3564759E788}|28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper.csproj|c:\\users\\v\u0026v\\source\\repos\\28april.adonet\u002Bdapper\\28april.adonet\u002Bdapper\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{417C477C-477D-4F9B-BF48-D3564759E788}|28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper.csproj|solutionrelative:28april.adonet\u002Bdapper\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{417C477C-477D-4F9B-BF48-D3564759E788}|28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper.csproj|c:\\users\\v\u0026v\\source\\repos\\28april.adonet\u002Bdapper\\28april.adonet\u002Bdapper\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{417C477C-477D-4F9B-BF48-D3564759E788}|28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper.csproj|solutionrelative:28april.adonet\u002Bdapper\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{417C477C-477D-4F9B-BF48-D3564759E788}|28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper.csproj|c:\\users\\v\u0026v\\source\\repos\\28april.adonet\u002Bdapper\\28april.adonet\u002Bdapper\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{417C477C-477D-4F9B-BF48-D3564759E788}|28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper.csproj|solutionrelative:28april.adonet\u002Bdapper\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{417C477C-477D-4F9B-BF48-D3564759E788}|28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper.csproj|c:\\users\\v\u0026v\\source\\repos\\28april.adonet\u002Bdapper\\28april.adonet\u002Bdapper\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417C477C-477D-4F9B-BF48-D3564759E788}|28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper.csproj|solutionrelative:28april.adonet\u002Bdapper\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{417C477C-477D-4F9B-BF48-D3564759E788}|28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper.csproj|c:\\users\\v\u0026v\\source\\repos\\28april.adonet\u002Bdapper\\28april.adonet\u002Bdapper\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{417C477C-477D-4F9B-BF48-D3564759E788}|28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper.csproj|solutionrelative:28april.adonet\u002Bdapper\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417C477C-477D-4F9B-BF48-D3564759E788}|28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper.csproj|c:\\users\\v\u0026v\\source\\repos\\28april.adonet\u002Bdapper\\28april.adonet\u002Bdapper\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417C477C-477D-4F9B-BF48-D3564759E788}|28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper.csproj|solutionrelative:28april.adonet\u002Bdapper\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{417C477C-477D-4F9B-BF48-D3564759E788}|28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper.csproj|c:\\users\\v\u0026v\\source\\repos\\28april.adonet\u002Bdapper\\28april.adonet\u002Bdapper\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,15 +46,16 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper\\Repositories\\Implementations\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "28April.AdoNet\u002BDapper\\Repositories\\Implementations\\CategoryRepository.cs",
               "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper\\Repositories\\Implementations\\CategoryRepository.cs",
               "RelativeToolTip": "28April.AdoNet\u002BDapper\\Repositories\\Implementations\\CategoryRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA2wBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T08:52:00.98Z"
+              "WhenOpened": "2025-04-27T08:52:00.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -70,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper\\Repositories\\Abstractions\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "28April.AdoNet\u002BDapper\\Repositories\\Abstractions\\ICategoryRepository.cs",
@@ -78,7 +79,8 @@
               "RelativeToolTip": "28April.AdoNet\u002BDapper\\Repositories\\Abstractions\\ICategoryRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T08:51:11.95Z"
+              "WhenOpened": "2025-04-27T08:51:11.95Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -94,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper\\Models\\Category.cs",
               "RelativeDocumentMoniker": "28April.AdoNet\u002BDapper\\Models\\Category.cs",
@@ -102,19 +104,21 @@
               "RelativeToolTip": "28April.AdoNet\u002BDapper\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T08:46:00.728Z"
+              "WhenOpened": "2025-04-27T08:46:00.728Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper\\Models\\Product.cs",
               "RelativeDocumentMoniker": "28April.AdoNet\u002BDapper\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper\\Models\\Product.cs",
               "RelativeToolTip": "28April.AdoNet\u002BDapper\\Models\\Product.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA9wBkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAA4wBkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T08:44:55.373Z"
+              "WhenOpened": "2025-04-27T08:44:55.373Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -124,7 +128,7 @@
               "RelativeDocumentMoniker": "28April.AdoNet\u002BDapper\\Program.cs",
               "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\28April.AdoNet\u002BDapper\\28April.AdoNet\u002BDapper\\Program.cs",
               "RelativeToolTip": "28April.AdoNet\u002BDapper\\Program.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAgwEcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAcwGYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T08:42:11.439Z",
               "EditorCaption": ""

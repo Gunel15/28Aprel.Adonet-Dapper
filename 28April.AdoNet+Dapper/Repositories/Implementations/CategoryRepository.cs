@@ -22,7 +22,7 @@ namespace _28April.AdoNet_Dapper.Repositories.Implementations
         public void Add(Category entity)
         {
             using var db = _connection;
-            db.Execute("insert into categogies values(@Name)", entity);
+            db.Execute("insert into categories values(@Name)", entity);
         }
 
         public void Update(int id, Category entity)

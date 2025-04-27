@@ -8,6 +8,7 @@ namespace _28April.AdoNet_Dapper
         static void Main(string[] args)
         {
             ProductRepository productRepository = new ProductRepository();
+            CategoryRepository categoryRepository = new CategoryRepository();
             //productRepository.Add(new Product
             //{
             //    Name = "Salvar",
@@ -47,6 +48,7 @@ namespace _28April.AdoNet_Dapper
                             Price = Convert.ToInt32(Console.ReadLine()),
                             CategoryId = Convert.ToInt32(Console.ReadLine()),
                         });
+                    Console.WriteLine("Mehsul ugurla elave edildi!");
                         break;
                     case "2":
                         Console.WriteLine("Deyishmek istediyiniz mehsulun id-nint daxil edin");
@@ -58,11 +60,13 @@ namespace _28April.AdoNet_Dapper
                             Price = Convert.ToInt32(Console.ReadLine()),
                             CategoryId = Convert.ToInt32(Console.ReadLine()),
                         });
+                    Console.WriteLine("Mehsul ugurla deyishdirildi!");
                         break;
                     case "3":
                         Console.WriteLine("Silmek istediyiniz mehsulun id-ni qeyd edin:");
                         int id2 = Convert.ToInt32(Console.ReadLine());
                         productRepository.Delete(id2);
+                    Console.WriteLine("Mehsul ugurla silindi!");
                         break;
                     case "4":
                         List<Product> prods = productRepository.GetAll();
@@ -78,17 +82,51 @@ namespace _28April.AdoNet_Dapper
                         Console.WriteLine(product.Id + " " + product.Name + " " + product.Price);
                         break;
                     case "6":
-                        break;
+                    Console.WriteLine("Elave etmek istediyiniz categoriyanin adini daxil edin:");
+                    categoryRepository.Add(new Category
+                    {
+                        Name = Console.ReadLine(),
+                        
+                    });
+                    Console.WriteLine("Kategoriya ugurla daxile dildi!");
+                    break;
                     case "7":
-                        break;
+                    Console.WriteLine("Deyishmek istediyiniz categoriyanin id-ni daxil edin");
+                    int id4 = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("Yeni categoriyanin adini daxil edin:");
+                    categoryRepository.Update(id4, new Category
+                    {
+                        Name = Console.ReadLine(),
+                       
+                    });
+                    Console.WriteLine("Categoriya ugurla yenilendi!");
+                    break;
                     case "8":
-                        break;
+                    Console.WriteLine("Silmek istediyiniz categorynin id-ni qeyd edin:");
+                    int id5 = Convert.ToInt32(Console.ReadLine());
+                    categoryRepository.Delete(id5);
+                    Console.WriteLine("Categoriya ugurla silindi!");
+                    break;
                     case "9":
-                        break;
+                    List<Category> categories = categoryRepository.GetAll();
+                    foreach (Category cat in categories)
+                    {
+                        Console.WriteLine(cat.Id + " " + cat.Name );
+                    }
+                    break;
                     case "10":
-                        break;
+                    Console.WriteLine("Melumat almaq istediyiniz categorynin id-ni daxil edin:");
+                    int id6 = Convert.ToInt32(Console.ReadLine());
+                    var category = productRepository.GetById(id6);
+                    Console.WriteLine(category.Id + " " + category.Name );
+                    break;
                     case "0":
+                    Console.WriteLine("press to any key");
                         break;
+                default:
+                    
+                    break;
+
                 }
             goto start;
         }
